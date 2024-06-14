@@ -1,4 +1,3 @@
-'''
 
 #Ejercicio Hola Mundo
 print("Hola mundo")
@@ -45,9 +44,9 @@ x1 = int(input('ingrese un número:'))
 x2 = float(input('ingrese un número:'))
 print(x1+x2)
 
+
+
 '''
-
-
 #Programar de Celcius A F
 
 F = float(input('Ingrese la temperatura:'))
@@ -58,3 +57,4 @@ def conv(F):
 
 print(conv(F))
 
+'''
