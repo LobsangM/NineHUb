@@ -1,0 +1,4 @@
+Hola mundo,
+Estamos aprendiendo a usar python
+Escribir y guardar información
+en archivos en python

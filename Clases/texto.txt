@@ -1,3 +1,0 @@
-Hola, este mensaje es una prueba para python
-
-Este es un salto de linea
